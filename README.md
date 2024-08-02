@@ -6,3 +6,6 @@
 `pyinstaller --onefile --noconsole name_of_file.py`
 
 of course, instead of name_of_file, you type the name of your file (for example `programming_pause.py`).
+
+> [!NOTE]
+[![Video demonstration](
