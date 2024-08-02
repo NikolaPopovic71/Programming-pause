@@ -7,6 +7,9 @@
 
 of course, instead of name_of_file, you type the name of your file (for example `programming_pause.py`).
 
+> [!NOTE]
+Video demonstration of `.pyw` code
+
 
 https://github.com/user-attachments/assets/ec7bbf13-4db4-4757-b708-551d3090ac99
 
