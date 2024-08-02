@@ -8,3 +8,8 @@
 of course, instead of name_of_file, you type the name of your file (for example `programming_pause.py`).
 
 
+https://github.com/user-attachments/assets/ec7bbf13-4db4-4757-b708-551d3090ac99
+
+
+
+
